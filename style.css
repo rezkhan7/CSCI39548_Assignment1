@@ -8,6 +8,35 @@ body {
 }
 
 
+table.player-stats {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+
+table.player-stats th {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px;
+    text-align: left;
+}
+
+table.player-stats tr {
+    border-bottom: 1px solid #ccc;
+}
+
+
+table.player-stats td {
+    padding: 10px;
+}
+
+
+button {
+    margin-top: 20px;
+}
+
+
 h1 {
     font-size: 36px;
     color: #333;
