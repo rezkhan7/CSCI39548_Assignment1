@@ -26,3 +26,4 @@ ronaldoButton.addEventListener('click', ()=>{
     ronaldoStatsContainer.innerHTML = ''
     ronaldoStatsContainer.appendChild(table)
 });
+
